@@ -1,0 +1,363 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "yrdWoVanu6qBKbEPub-U1WyRv_I",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "WxydjJFcZLYjswaWyd6gpbwQ7KA",
+      "id": "ZuWw8E2x3o4",
+      "snippet": {
+        "publishedAt": "2021-06-27T23:00:13Z",
+        "channelId": "UC9C_VBvCNx3rwtvjj4OZg8g",
+        "title": "TOAST CYPHER 2021",
+        "description": "An artistic showcase by versatile and talented young Nigerian artists. The toast cypher 2021 is definitely the first of its kind and we look forward to showcasing more dynamic indigenous talents. This cypher was produced by Cozy Media and comprised of 7 artists, Calli-ber tha grime, Victor Alumma, Ayamtu, Uncle B , Cozy lomo, Sules and JaguarAbel. Music production by Cali-ber tha grime. Camera operator, Adedayo Onibanjo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZuWw8E2x3o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZuWw8E2x3o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZuWw8E2x3o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZuWw8E2x3o4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Cozy Lomo",
+        "tags": [
+          "CYPHER",
+          "MUSIC",
+          "HIP-HOP",
+          "RAP",
+          "NIGERIA",
+          "TOAST 2021"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TOAST CYPHER 2021",
+          "description": "An artistic showcase by versatile and talented young Nigerian artists. The toast cypher 2021 is definitely the first of its kind and we look forward to showcasing more dynamic indigenous talents. This cypher was produced by Cozy Media and comprised of 7 artists, Calli-ber tha grime, Victor Alumma, Ayamtu, Uncle B , Cozy lomo, Sules and JaguarAbel. Music production by Cali-ber tha grime. Camera operator, Adedayo Onibanjo."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "735",
+        "likeCount": "90",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cvX840S5jy9JtOToohDCZd_Pn-Y",
+      "id": "1wX0aPi2qB8",
+      "snippet": {
+        "publishedAt": "2021-06-06T19:50:02Z",
+        "channelId": "UC-bFgwL_kFKLZA60AiB-CCQ",
+        "title": "Becoming A Software Developer: Bootcamp vs Self Taught",
+        "description": "Join me on my Stage Channel on June 10th and 11th at 7pm EST to chat about tech, life, etc. - https://discord.gg/9d3r6gX5md - Thanks to Discord for sponsoring today’s video.\n\n► Free/ Affordable Online Resources\n-https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/\n-https://www.udemy.com/user/coltsteele/\n-https://www.youtube.com/watch?v=Xm4BObh4MhI\n\nLET'S BE FRIENDS (IG)\nhttps://www.instagram.com/bukola.dev/\n\n► VIDEO RESOURCES\n\n► Music\nhttps://www.epidemicsound.com/referral/t1k1c6/\nhttps://artlist.io/Bukola-1928571\n► Desk Equipment\nhttps://kit.co/TheComeUp/desk-equipment\n► Filming Equipment\nhttps://kit.co/TheComeUp/filming-gear\n► Programming Video\nhttps://kit.co/TheComeUp/programming-books\n\nBUSINESS INQUIRIES\nmgmt@bukola.dev\n\n📒 Timestamps 📒\n0:00 - Intro\n0:40 - Know Your Learning Style\n1:55 - Discord Sponsorship\n2:54 - Evaluate Your Network\n3:36 - Where Are You Starting From\n4:40 - Time and Money Tradeoff",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wX0aPi2qB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wX0aPi2qB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wX0aPi2qB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1wX0aPi2qB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1wX0aPi2qB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bukola",
+        "tags": [
+          "software engineer nyc",
+          "how to be a software engineer no CS degree",
+          "self taught programmer",
+          "coding bootcamp",
+          "software engineer",
+          "computer science",
+          "software developer",
+          "self taught software engineer",
+          "is coding bootcamp worth it",
+          "how to become a software engineer",
+          "software development",
+          "learn to code"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Becoming A Software Developer: Bootcamp vs Self Taught",
+          "description": "Join me on my Stage Channel on June 10th and 11th at 7pm EST to chat about tech, life, etc. - https://discord.gg/9d3r6gX5md - Thanks to Discord for sponsoring today’s video.\n\n► Free/ Affordable Online Resources\n-https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/\n-https://www.udemy.com/user/coltsteele/\n-https://www.youtube.com/watch?v=Xm4BObh4MhI\n\nLET'S BE FRIENDS (IG)\nhttps://www.instagram.com/bukola.dev/\n\n► VIDEO RESOURCES\n\n► Music\nhttps://www.epidemicsound.com/referral/t1k1c6/\nhttps://artlist.io/Bukola-1928571\n► Desk Equipment\nhttps://kit.co/TheComeUp/desk-equipment\n► Filming Equipment\nhttps://kit.co/TheComeUp/filming-gear\n► Programming Video\nhttps://kit.co/TheComeUp/programming-books\n\nBUSINESS INQUIRIES\nmgmt@bukola.dev\n\n📒 Timestamps 📒\n0:00 - Intro\n0:40 - Know Your Learning Style\n1:55 - Discord Sponsorship\n2:54 - Evaluate Your Network\n3:36 - Where Are You Starting From\n4:40 - Time and Money Tradeoff"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12807",
+        "likeCount": "1005",
+        "dislikeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "112"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7oMKHmqU7bbie5kn8bQp4_ZXCR0",
+      "id": "Axu4tJl8gbM",
+      "snippet": {
+        "publishedAt": "2020-12-26T20:00:01Z",
+        "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+        "title": "How to learn data science in 2021 (the minimize effort maximize outcome way)",
+        "description": "In this video, I cover how to learn data science in 2021 - the minimize effort and maximize outcome way! If you're committed to learning data science in 2021, I have nothing more to say than to watch this video! I spend a lot of time putting this vid together and I can't wait for us to start ;) \n______________________________________________________________________\nTimestamps\n \n00:00 Intro \n01:15 Topics and framework\n02:06 Programming\n02:41 Stats\n02:57 Visualization \n03:13 EDA\n03:47 Machine learning  \n05:34 The best way to learn\n06:13 Apply framework to more topics\n06:55 ACCOUNTABILITY \n08:44 Resources/courses\n10:48 How to choose projects\n11:29 What I'm gonna do in 2021\n\n______________________________________________________________________\nLinks mentioned in video\n\nKen Jee's 66daysofdata: \nhttps://www.youtube.com/watch?v=qV_AlRwhI3I\nKen Jee's How I would learn data science in 2021: \nhttps://www.youtube.com/watch?v=41Clrh6nv1s&t=14s\n\nData Professor's Data science process:\nhttps://www.youtube.com/watch?v=s4uF8UOJz9k&t=4s\nhttps://www.youtube.com/watch?v=9hxuXzrCRz8\n\nKrish Naik's Step by step action plan:\nhttps://www.youtube.com/watch?v=lP1hb4BFAWA&t=618s\n\nHow I learned SQL from Scratch in 11 days: \nhttps://www.youtube.com/watch?v=vaD3ZFFNwhM\n\n______________________________________________________________________\nYou might also be interested in these videos\n\nDay in the life of a FAANG data Scientist: \nhttps://www.youtube.com/watch?v=lCi6fWuI8r4\nHow to choose between software engineering and data science:\nhttps://www.youtube.com/watch?v=JUkSeqe1eYQ\n\n______________________________________________________________________\nSubscribe: https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/?sub_confirmation=1\n______________________________________________________________________\nReal SQL interview question walkthrough series: \nhttps://www.youtube.com/watch?v=Td-cmLfQ7uU&list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA\n\nCheck out StrataScratch for SQL interview prep: \nhttps://stratascratch.com/?via=tina\n______________________________________________________________________\nContact\n\nyoutube: youtube comments are by far the best way to get a response from me! I answer every single comment! \nlinkedin: https://www.linkedin.com/in/tinaw-h/ (second preferred but I might suck at responding)\nemail: hellotinah@gmail.com \n\n*If you're reaching out through linkedin or email, please leave a youtube comment just letting me know that you reached out :) \n______________________________________________________________________\n*The StrataScratch affiliate program give me a small portion of the sales price at no cost to you. I'm currently not monetized and really appreciate your support in helping improve this channel! :)\n\n#DataScience #DataSciencein2021 #TinaHuang",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Axu4tJl8gbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Axu4tJl8gbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Axu4tJl8gbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Axu4tJl8gbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Axu4tJl8gbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tina Huang",
+        "tags": [
+          "data science 2021",
+          "learn data science in 2021",
+          "how to learn data science in 2021",
+          "66daysofdata",
+          "data science",
+          "ken jee",
+          "machine learning",
+          "data scientist",
+          "minimize effort maximize outcome",
+          "how to learn data science smartly",
+          "how to learn data science",
+          "learn data science",
+          "learn data science for beginners",
+          "data science for beginners",
+          "introduction to data science",
+          "data science course",
+          "what is data science",
+          "best data science course",
+          "data science projects",
+          "data science courses online"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to learn data science in 2021 (the minimize effort maximize outcome way)",
+          "description": "In this video, I cover how to learn data science in 2021 - the minimize effort and maximize outcome way! If you're committed to learning data science in 2021, I have nothing more to say than to watch this video! I spend a lot of time putting this vid together and I can't wait for us to start ;) \n______________________________________________________________________\nTimestamps\n \n00:00 Intro \n01:15 Topics and framework\n02:06 Programming\n02:41 Stats\n02:57 Visualization \n03:13 EDA\n03:47 Machine learning  \n05:34 The best way to learn\n06:13 Apply framework to more topics\n06:55 ACCOUNTABILITY \n08:44 Resources/courses\n10:48 How to choose projects\n11:29 What I'm gonna do in 2021\n\n______________________________________________________________________\nLinks mentioned in video\n\nKen Jee's 66daysofdata: \nhttps://www.youtube.com/watch?v=qV_AlRwhI3I\nKen Jee's How I would learn data science in 2021: \nhttps://www.youtube.com/watch?v=41Clrh6nv1s&t=14s\n\nData Professor's Data science process:\nhttps://www.youtube.com/watch?v=s4uF8UOJz9k&t=4s\nhttps://www.youtube.com/watch?v=9hxuXzrCRz8\n\nKrish Naik's Step by step action plan:\nhttps://www.youtube.com/watch?v=lP1hb4BFAWA&t=618s\n\nHow I learned SQL from Scratch in 11 days: \nhttps://www.youtube.com/watch?v=vaD3ZFFNwhM\n\n______________________________________________________________________\nYou might also be interested in these videos\n\nDay in the life of a FAANG data Scientist: \nhttps://www.youtube.com/watch?v=lCi6fWuI8r4\nHow to choose between software engineering and data science:\nhttps://www.youtube.com/watch?v=JUkSeqe1eYQ\n\n______________________________________________________________________\nSubscribe: https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/?sub_confirmation=1\n______________________________________________________________________\nReal SQL interview question walkthrough series: \nhttps://www.youtube.com/watch?v=Td-cmLfQ7uU&list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA\n\nCheck out StrataScratch for SQL interview prep: \nhttps://stratascratch.com/?via=tina\n______________________________________________________________________\nContact\n\nyoutube: youtube comments are by far the best way to get a response from me! I answer every single comment! \nlinkedin: https://www.linkedin.com/in/tinaw-h/ (second preferred but I might suck at responding)\nemail: hellotinah@gmail.com \n\n*If you're reaching out through linkedin or email, please leave a youtube comment just letting me know that you reached out :) \n______________________________________________________________________\n*The StrataScratch affiliate program give me a small portion of the sales price at no cost to you. I'm currently not monetized and really appreciate your support in helping improve this channel! :)\n\n#DataScience #DataSciencein2021 #TinaHuang"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT12M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "216231",
+        "likeCount": "10237",
+        "dislikeCount": "81",
+        "favoriteCount": "0",
+        "commentCount": "509"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i4CUgjmgp1QJugVzNbiL6y9b7Zk",
+      "id": "rlxEEBUJVak",
+      "snippet": {
+        "publishedAt": "2021-03-17T17:00:53Z",
+        "channelId": "UCIsmzcRwV_EPOBaVQavYuUA",
+        "title": "How to become a Data Scientist // interview, advice & guidance",
+        "description": "Hey lovelies! This week I'm joined by Jac, a Data Strategist who started her career as a Data Science to discuss how to break into this amazing industry. We talk through her journey and the tips she has for anyone looking to get a job in Data Science!\n\nYou should definitely follow Jac's Instagram: @datadrivenjac \n\n*TIMESTAMPS*\n00:00\u200b\u200b - Introduction\n1:26 - Educational background\n5:19\u200b\u200b - Transitioning from Engineering to Data Science\n7:17\u200b\u200b - Landing first Data role/Application process\n13:44\u200b - What does a Data Scientist do day to day\n16:31\u200b - Advice for those looking to go into Data Science\n20:10\u200b - What has made you successful as a Data Scientist \n\n\n_________________________________________________________________________________________________\n\n**DOWNLOAD MY FREE TECH STARTER GUIDE** : https://crafty-painter-2973.ck.page/06d7b7d4ab\n\n\n_________________________________________________________________________________________________\n\n**FOLLOW ME ON SOCIAL MEDIA**\n\nIG: @thetechcornr\nhttps://www.instagram.com/thetechcorn...\u200b\n\nTik Tok: @thetechcornr \nhttps://vm.tiktok.com/ZMe14WsLE/\u200b\u200b\u200b\u200b\n\nTwitter:@thetechcornr \nhttps://twitter.com/thetechcornr\u200b\u200b",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rlxEEBUJVak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rlxEEBUJVak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlxEEBUJVak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rlxEEBUJVak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rlxEEBUJVak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hosanna Hali",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to become a Data Scientist // interview, advice & guidance",
+          "description": "Hey lovelies! This week I'm joined by Jac, a Data Strategist who started her career as a Data Science to discuss how to break into this amazing industry. We talk through her journey and the tips she has for anyone looking to get a job in Data Science!\n\nYou should definitely follow Jac's Instagram: @datadrivenjac \n\n*TIMESTAMPS*\n00:00\u200b\u200b - Introduction\n1:26 - Educational background\n5:19\u200b\u200b - Transitioning from Engineering to Data Science\n7:17\u200b\u200b - Landing first Data role/Application process\n13:44\u200b - What does a Data Scientist do day to day\n16:31\u200b - Advice for those looking to go into Data Science\n20:10\u200b - What has made you successful as a Data Scientist \n\n\n_________________________________________________________________________________________________\n\n**DOWNLOAD MY FREE TECH STARTER GUIDE** : https://crafty-painter-2973.ck.page/06d7b7d4ab\n\n\n_________________________________________________________________________________________________\n\n**FOLLOW ME ON SOCIAL MEDIA**\n\nIG: @thetechcornr\nhttps://www.instagram.com/thetechcorn...\u200b\n\nTik Tok: @thetechcornr \nhttps://vm.tiktok.com/ZMe14WsLE/\u200b\u200b\u200b\u200b\n\nTwitter:@thetechcornr \nhttps://twitter.com/thetechcornr\u200b\u200b"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT25M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "787",
+        "likeCount": "53",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fXRNEn5k4DeK4maAp5-x6zAbFPM",
+      "id": "NM0A_Iq9JQI",
+      "snippet": {
+        "publishedAt": "2021-06-18T16:14:56Z",
+        "channelId": "UCIsmzcRwV_EPOBaVQavYuUA",
+        "title": "Degree or bootcamp? My university experience // going to a russell group, grades & learnings",
+        "description": "Hey lovelies! Today I thought I'd share my university experience for those deciding whether they should go to university or do a bootcamp - I hope my story helps people with choosing between the two!\n\n_________________________________________________________________________________________________\n\n**DOWNLOAD MY FREE TECH STARTER GUIDE** : https://crafty-painter-2973.ck.page/06d7b7d4ab\n\n**DOWNLOAD FREE LIST OF CODING RESOURCES ** : https://crafty-painter-2973.ck.page/2bf4236a1b\n\n_________________________________________________________________________________________________\n\n**GET TO KNOW ME**\n\n\nHey! My name is Hosanna, I am currently an Azure Specialist at Microsoft living in London. In my spare time, I make content about how to secure a job in tech and how to have a successful tech career. My dream is to inspire more women to pursue a career in tech.\n\n\n**FOLLOW ME ON SOCIAL MEDIA**\n\n\nIG: @thetechcornr\nhttps://www.instagram.com/thetechcornr\n\n\nTik Tok: @thetechcornr \nhttps://vm.tiktok.com/ZMe14WsLE/\u200b\u200b\u200b\u200b\u200b\n\n\nTwitter:@thetechcornr \nhttps://twitter.com/thetechcornr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NM0A_Iq9JQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NM0A_Iq9JQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NM0A_Iq9JQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NM0A_Iq9JQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NM0A_Iq9JQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hosanna Hali",
+        "tags": [
+          "Degree",
+          "Bootcamp",
+          "Technology"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Degree or bootcamp? My university experience // going to a russell group, grades & learnings",
+          "description": "Hey lovelies! Today I thought I'd share my university experience for those deciding whether they should go to university or do a bootcamp - I hope my story helps people with choosing between the two!\n\n_________________________________________________________________________________________________\n\n**DOWNLOAD MY FREE TECH STARTER GUIDE** : https://crafty-painter-2973.ck.page/06d7b7d4ab\n\n**DOWNLOAD FREE LIST OF CODING RESOURCES ** : https://crafty-painter-2973.ck.page/2bf4236a1b\n\n_________________________________________________________________________________________________\n\n**GET TO KNOW ME**\n\n\nHey! My name is Hosanna, I am currently an Azure Specialist at Microsoft living in London. In my spare time, I make content about how to secure a job in tech and how to have a successful tech career. My dream is to inspire more women to pursue a career in tech.\n\n\n**FOLLOW ME ON SOCIAL MEDIA**\n\n\nIG: @thetechcornr\nhttps://www.instagram.com/thetechcornr\n\n\nTik Tok: @thetechcornr \nhttps://vm.tiktok.com/ZMe14WsLE/\u200b\u200b\u200b\u200b\u200b\n\n\nTwitter:@thetechcornr \nhttps://twitter.com/thetechcornr"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT27M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "450",
+        "likeCount": "30",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 56,
+    "resultsPerPage": 5
+  }
+}
